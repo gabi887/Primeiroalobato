@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(to right,#804e4e, #dde47f, #af3a16, #d63dcf);
+}
+
+h1{
+    font-size: 70px;
+    text-align: center;
+}
+p{
+    font-size: 30px;
+}
